@@ -1,0 +1,17 @@
+---------------------------------------
+--------Anotações Importantes----------
+---------------------------------------
+
+Comandos úteis:
+- mkdir: cria dikretório
+- rmdir: exclui diretorio
+- dir: mostra o conteudo do diretório especificado
+- cd: muda pro diretório especificado
+- cd .. : muda pro diretorio anterior
+- git commit -m "descrição" : cria um commit
+- git status: mostra o status
+- git remote add origin [url github] : direciona pro repositorio do github 
+- git remote -v: mostra pra onde esta direcionado no github
+- git push origin [branch]: empurra conteúdo pro github
+- git pull origin [branch]: puxa o conteudo do github
+- git clone [url github] : clona repositorio
