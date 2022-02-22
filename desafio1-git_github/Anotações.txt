@@ -3,7 +3,7 @@
 ---------------------------------------
 
 Comandos úteis:
-- mkdir: cria dikretório
+- mkdir: cria diretório
 - rmdir: exclui diretorio
 - dir: mostra o conteudo do diretório especificado
 - cd: muda pro diretório especificado
@@ -15,3 +15,7 @@ Comandos úteis:
 - git push origin [branch]: empurra conteúdo pro github
 - git pull origin [branch]: puxa o conteudo do github
 - git clone [url github] : clona repositorio
+
+Links Importantes:
+
+replit.com
